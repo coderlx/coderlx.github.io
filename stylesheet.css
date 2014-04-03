@@ -1,0 +1,19 @@
+@charset "UTF-8"; /* Set to UTF-8 to produce expected results. */
+
+/* IDs */
+#header
+{
+    color: gray;
+    font-family: consolas;
+	text-align: center;
+}
+
+/* Classes */
+.mainlinks
+{
+	color: gray;
+    font-family: consolas;
+	margin-left:30px;
+	margin-right:30px;
+	text-decoration: none;
+}
